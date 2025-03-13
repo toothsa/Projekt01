@@ -1,2 +1,2 @@
-# Projekt01
+# Projekt
 Ez egy Scratch animáció
