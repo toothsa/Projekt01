@@ -1,2 +1,2 @@
 # Projekt01
-Ez egy Scratch animáció.
+Ez egy Scratch animáció
